@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div class="navbar"> 
+        <ul>
+          <a href="index.html">Main Page</a>
+          <a href="resume.html">Resume</a>
+          <a href="contact.html">Contact Page</a>
+        </ul>
+      </div>
+    </header>
+    <div class="image">
+    <img src="resume.jpeg" alt="resume image"/>
+    </div>
+  </body>
+</html>
