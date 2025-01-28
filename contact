@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Contact - Nurian Hernandez</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="index.html">Main Page</a>
+      <a href="resume.html"> Resume</a>
+      <a href="contact.html">Contact</a>
+    </div>
+    
+    <div class="contact">
+      <h1>Contact Me</h1>
+      <p> If you'd like to connect, please reach out to me through the following:</p>
+    <p>
+    Email:<p>nurian00@icloud.com</p>
+    Phone: <p>(475)300-6103</p>
+     <p> Instagram: <a href="https://www.instagram.com/loveenuniii._?igsh=MXVkbGJ5Y2RkZmEzZw%3D%3D&utm_source=qr">loveenuniii._</a> </p>
+      <p> Snapchat:<a href="https://snapchat.com/t/VUkwXHVU">nunie.333</a></p>
+      
+      
+    </div>
+      
+  </body>
+</html>
